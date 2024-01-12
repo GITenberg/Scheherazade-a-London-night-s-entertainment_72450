@@ -1,0 +1,32 @@
+_repo: Scheherazade-a-London-night-s-entertainment_72450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warden, Florence
+    alias: James, Florence Alice Price
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '6480'
+    url: http://www.gutenberg.org/2009/agents/6480
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Warden
+description: ''
+gutenberg_issued: '2023-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72450'
+language: en
+pgterms:marc904: https://archive.org/details/22609247.2273.emory.edu
+pgterms:marc905: 20231217132037warden
+pgterms:marc906: '1889'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bWard And Downey, Publishers, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: 'Scheherazade: a London night''s entertainment'
+url: http://www.gutenberg.org/ebooks/72450
