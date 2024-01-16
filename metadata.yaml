@@ -1,5 +1,8 @@
 _repo: Scheherazade-a-London-night-s-entertainment_72450
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72450-h/images/cover.jpg
 creator:
   author:
     agent_name: Warden, Florence
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6480
     wikipedia: https://en.wikipedia.org/wiki/Florence_Warden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72450#Scheherazade-a-London-night-s-entertainment
 gutenberg_issued: '2023-12-18'
 gutenberg_type: Text
 identifiers:
